@@ -46,7 +46,7 @@ body {
 
 /* header */
 .header {
-	background-image: url('./photo/cup_640.jpg');
+	background-image: url('./photo/cup_640.JPG');
 	height: 100vh;
 	background-position: top;
 	background-size: cover;
@@ -210,7 +210,7 @@ body {
 	flex-wrap: wrap;
 }
 .workers-foto-1 {
-	background-image: url('./photo/man_640.jpg');
+	background-image: url('./photo/man_640.JPG');
 	height: 100vh;
 	width: 100%;
 	background-size: cover;
